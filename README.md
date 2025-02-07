@@ -1,3 +1,3 @@
-Bookings.csv Dataset is used for the PowerBI Project
+Bookings.csv Dataset is used for the OLA PowerBI Project.
 
-B
+Bookings-20000-Rows is used for the OLA SQL Project.
